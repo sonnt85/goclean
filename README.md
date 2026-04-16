@@ -49,6 +49,10 @@ func main() {
 - `MoveTopLeft()` — moves the cursor to position (0, 0)
 - `Size() (int, int)` — returns terminal width and height in columns/rows
 
+## Author
+
+**sonnt85** — [thanhson.rf@gmail.com](mailto:thanhson.rf@gmail.com)
+
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
