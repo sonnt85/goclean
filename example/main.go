@@ -4,16 +4,16 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/inancgumus/screen"
+	"github.com/sonnt85/goclean"
 )
 
 func main() {
-	gocleanClear()
+	goclean.Clear()
 
 	for {
-		gocleanMoveTopLeft()
+		goclean.MoveTopLeft()
 
-		w, h := gocleanSize()
+		w, h := goclean.Size()
 		fmt.Printf("Width: %d Height: %d\n", w, h)
 
 		fmt.Println(time.Now())
