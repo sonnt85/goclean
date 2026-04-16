@@ -1,5 +1,7 @@
 # goclean
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/sonnt85/goclean.svg)](https://pkg.go.dev/github.com/sonnt85/goclean)
+
 Cross-platform terminal screen clearing and cursor control for Go.
 
 ## Installation
